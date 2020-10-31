@@ -1,0 +1,7 @@
+flask
+flask-wtf
+flask-login
+pylint==1.9.2
+pydocstyle
+tox
+gcovr
